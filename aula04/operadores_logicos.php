@@ -1,4 +1,6 @@
+//ou exclusivo
 <?php
+
 $a=false;
 $b=false;
 if( $a xor $b){
